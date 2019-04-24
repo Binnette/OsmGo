@@ -4,7 +4,7 @@
 
 On parle bien des POI! 
 *OSM Go !* est une application mobile qui permet d'enrichir Openstreetmap directement sur le terrain.
-Cartographier votre environnement direct n'a jamais été aussi simple et rapide. Gardez les yeux ouverts et ayez le réflexe ! 
+Cartographiez votre environnement direct n'a jamais été aussi simple et rapide. Gardez les yeux ouverts et ayez le bon réflexe ! 
 
 L'APK peut se trouver dans la catégorie [releases de ce repo](https://github.com/DoFabien/OsmGo/releases) 
 
